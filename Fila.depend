@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1539657066 source:c:\users\walmick diógenes\documents\projects c\fila\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1539653584 source:c:\users\walmick diógenes\documents\projects c\fila\main.c
+
+1539653569 c:\users\walmick diógenes\documents\projects c\fila\fila.c
+	<stdio.h>
+	<stdlib.h>
+
+1540175736 source:c:\users\walmick diógenes\documents\projects c\fila1\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1540173377 source:c:\users\walmick diógenes\documents\projects c\fila1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
