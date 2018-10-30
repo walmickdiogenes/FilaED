@@ -16,13 +16,13 @@ int home(){ //menu
     printf("5 | ENCERRAR\n");
     scanf("%d",&op);
     switch (op){
-        case 1 : inserir();
+        case 1 : enfileira();
              break;
-        case 2 : exibir();
+        case 2 : imprimeFila();
             break;
-        case 3 : remover(dado);
+        case 3 : desenfileira(dado);
             break;
-        case 4 : limpar();
+        case 4 : fazFilaVazia();
             break;
     }
     return 0;
